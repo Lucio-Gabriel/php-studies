@@ -50,14 +50,14 @@
 
 ### 1.4 Operadores
 
-- [ ] Aritméticos (`+`, `-`, `*`, `/`, `%`, `**`)
-- [ ] Atribuição (`=`, `+=`, `-=`, `.=`, etc.)
-- [ ] Comparação (`==`, `===`, `!=`, `!==`, `<`, `>`, `<=>`)
-- [ ] Lógicos (`&&`, `||`, `!`, `and`, `or`, `xor`)
-- [ ] Incremento/Decremento (`++`, `--`)
-- [ ] Concatenação (`.`)
-- [ ] Operador ternário (`? :`)
-- [ ] Operador null coalescing (`??`)
+- [✅] Aritméticos (`+`, `-`, `*`, `/`, `%`, `**`)
+- [✅] Atribuição (`=`, `+=`, `-=`, `.=`, etc.)
+- [✅] Comparação (`==`, `===`, `!=`, `!==`, `<`, `>`, `<=>`)
+- [✅] Lógicos (`&&`, `||`, `!`, `and`, `or`, `xor`)
+- [✅] Incremento/Decremento (`++`, `--`)
+- [✅] Concatenação (`.`)
+- [✅] Operador ternário (`? :`)
+- [✅] Operador null coalescing (`??`)
 - [ ] Operador de supressão de erros `@` (e por que evitá-lo)
 - [ ] Operador spread (`...`)
 
